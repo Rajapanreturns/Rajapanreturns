@@ -35,6 +35,22 @@ I enjoy building software that solves practical problems, from backend systems a
 | **AI & cloud** | NLP, RAG workflows, Azure OpenAI, vector databases, embeddings, Azure Blob Storage |
 | **Tools** | Docker, Git, Azure DevOps, Jest, unit testing |
 
+### Selected projects
+
+**[DAS AI Portal — Dyslexia Error Pattern Analyzer](https://github.com/Rajapanreturns/DAS-AI-Portal)**  
+*In collaboration with the Dyslexia Association of Singapore (DAS)*
+
+An AI/NLP-powered educational application that helps educators review students' writing errors and diagnostic summaries. Built the educator-facing analysis review workflow, REST APIs, and database operations, with cloud-hosted MySQL and unit tests.
+
+`Node.js` `Express.js` `EJS` `JavaScript` `MySQL` `Railway` `Jest`
+
+**[StayOnTrail — Android Productivity App](https://github.com/Rajapanreturns/StayOnTrail)**  
+*Best Project Award — Information Systems and Programming*
+
+An Android productivity app with focus timers, priority-based task management, calendar integration, streak tracking, and AI-assisted task allocation from natural-language input.
+
+`Java` `Android` `SQL` `AI API Integration` `Design Patterns`
+
 ---
 
 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/bharath-rajeev-9a5b40311/) · [Portfolio](https://bharath-portfolio-xi.vercel.app/)
